@@ -45,6 +45,7 @@
 \def\trabajo#1{\gdef\@trabajo{#1}}
 \def\carrera#1{\gdef\@carrera{#1}}
 \def\titulo#1{\gdef\@titulo{#1}}
+\def\orientacion#1{\gdef\@orientacion{#1}}
 \def\autor#1{\gdef\@autor{#1}}
 \def\grado#1{\gdef\@grado{#1}}
 \def\director#1{\gdef\@director{#1}}
@@ -54,7 +55,7 @@
 \def\laboratorio#1{\gdef\@laboratorio{#1}}
 \def\palabrasclave#1{\gdef\@palabrasclave{#1}}
 \def\keywords#1{\gdef\@keywords{#1}}
-\def\fecha#1{\gdef\@fecha{#1}}
+\def\lugaryfecha#1{\gdef\@lugaryfecha{#1}}
 %------------------\maketitle----------------------------------%
 \renewcommand\maketitle{
     \begin{titlepage}
@@ -62,11 +63,13 @@
         \begin{center}
             {\Large \@trabajo\\}
             {\Large \@carrera\\}
-            \vskip 10ex
+            \vskip 5em
             {\Large \textbf{ \@titulo\\}}
-            \vskip 10ex
-            {\@autor\\ \@grado\\}
-            \vskip 8ex
+            \vskip 1em
+            \@orientacion
+            \vskip 1em
+            {\Large \@autor\\}
+            \vskip 5em
             {
                 \begin{tabular}[t]{c}
                     \@director\\ \directorname                    
@@ -91,17 +94,12 @@
                 \fi
                 \\
             }
-            \vskip 4ex \vfill
-            \@jurado\\ \juradoname\\
-            \vskip 6ex
-            \@fecha\\
-            \vskip 4ex \vfill
+            \vskip 4em
+            {\@autor\\ \@grado\\}
+            \vskip 5em \vfill
             \@laboratorio
-            \vskip 3em
-            \balseironame\\
-            \uncuyoname\\
-            \cneaname\\
-            \argentinaname\\
+            \vskip 1em
+            \@lugaryfecha\\
         \end{center}
     \end{titlepage}
     \global\let\maketitle\relax
@@ -161,14 +159,10 @@
 \newcommand\keywordsname{Keywords}
 \newcommand\palabrasclavename{Palabras clave}
 
-\newcommand\directorname{Directora}
-\newcommand\codirectorname{Co-director}
-\newcommand\cotutorname{Co-tutor}
-\newcommand\juradoname{Jurado}
-\newcommand\balseironame{Instituto Balseiro}
-\newcommand\uncuyoname{Universidad Nacional de Cuyo}
-\newcommand\cneaname{Comisión Nacional de Energía Atómica}
-\newcommand\argentinaname{Argentina}
+\newcommand\directorname{DIRECTORA}
+\newcommand\codirectorname{CO-DIRECTOR}
+\newcommand\cotutorname{CO-TUTOR}
+\newcommand\juradoname{JURADO}
 
 \addto\captionsspanish
 {

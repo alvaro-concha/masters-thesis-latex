@@ -1,0 +1,31 @@
+%-----------------------------------------------------------------------------%
+%------------------Paquetes---------------------------------------------------%
+%-----------------------------------------------------------------------------%
+
+%-----Configuracion de hipervinculos (\usepackage{hyperref})-----------------------%
+%\hypersetup{colorlinks=false,linkcolor=blue,citecolor=blue}
+
+%-----Configuración de espaciado (\usepackage{setspace})---------------------------%
+%\singlespacing		%para previsualizacion
+%\onehalfspacing	%default
+%\doublespacing		%para correccion
+
+%-----Configuración de pagina (\usepackage{geometry})------------------------------%
+%\geometry{inner=3cm,outer=2.5cm,top=3cm,bottom=3cm}	% margenes minimos
+%\geometry{inner=4cm,outer=3cm,top=3.5cm,bottom=4cm}	% margenes maximos 
+
+%-----Configuración de headers (\usepackage{fancyhdr})------------------------------%
+\usepackage{fancyhdr}
+\renewcommand{\chaptermark}[1]{\markboth{#1}{}}
+\renewcommand{\sectionmark}[1]{\markright{#1}}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE,RO]{\thepage}
+%\fancyhead[LO]{\normalfont\nouppercase{\rightmark}}
+%\fancyhead[RE]{\normalfont\nouppercase{\leftmark}}
+\fancyhead[LO]{\itshape\nouppercase{\rightmark}}
+\fancyhead[RE]{\itshape\nouppercase{\leftmark}}
+\renewcommand{\headrulewidth}{0pt}
+
+%-----Títulos sin separar en sílabas (no hyphenation)------------------------------%
+\usepackage[raggedright]{titlesec}

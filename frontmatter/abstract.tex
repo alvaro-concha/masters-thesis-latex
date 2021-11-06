@@ -1,0 +1,15 @@
+%------------------------------------------------------------------------------%
+%------------------Abstract----------------------------------------------------%
+%------------------------------------------------------------------------------%
+\begin{abstract}
+A fundamental assumption in behavioral neuroscience is that animal activity, while performing defined tasks, can be vastly described by a finite set of stereotyped behaviors. Information about animal behavior can then be correlated with simultaneous recordings of neural activity allowing us to understand how the brain encodes particular behaviors, what are the underlying neural circuits and how these circuits are modified during motor learning  \cite{esposito_defensive,levy_representation}.
+
+However, classifying different types of movements can be a complex endeavor. On the one hand,  the extent of animal activity recordings may be too large to be manually classified and such classification may not be reproducible between subjects. On the other, heuristically created categories (e.g., walking, running, jumping) tend to ignore inherent information regarding intra- and inter-animal variability frequently found in unrestrained behavior \cite{berman_mapping}.
+
+Therefore, in this work we used unsupervised machine learning techniques to classify different types of behaviors exhibited by expert mice performing a motor skill task. In particular, we used the t-SNE algorithm to classify animal behavior from a dataset containing information about the position of the mouse and their body parts while walking on a rotating cylinder at increasing speeds (accelerating rotarod task) \cite{berman_mapping,vdm_tsne,esposito_rotarod}.
+
+By applying this algorithm, we were able to classify behavior into 9 individual classes that correspond to specific poses of the mouse while performing the accelerating rotarod task. These poses were found to be representative of the individual mice analyzed  ($N_{\mathrm{ratones}}=3$) and capture common aspects in their movements. In addition, we studied the dynamics of transitions between poses and their dependence with the rotarod speed. This analysis showed that at faster rotarod speed animals change their motor strategy by selecting a type of locomotion characterized by hindlimb alternation.
+
+Finally, this pose classification was used to study potential correlations with neural activity patterns in the mesencephalic locomotor region (MLR) and we found the existence of individual neurons whose activity is modulated by the occurrence of pose transition events. Altogether, this work demonstrates the benefit of the use of unsupervised strategies for the detailed study of animal behavior and its utility in the study of neural circuit function.
+\end{abstract}
+%------------------------------------------------------------------------------%

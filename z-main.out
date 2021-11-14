@@ -1,0 +1,30 @@
+\BOOKMARK [0][-]{chapter*.4}{Resumen}{}% 1
+\BOOKMARK [0][-]{chapter*.5}{Abstract}{}% 2
+\BOOKMARK [0][-]{chapter*.6}{Introducci\363n}{}% 3
+\BOOKMARK [1][-]{section.0.1}{Motivaci\363n}{chapter*.6}% 4
+\BOOKMARK [1][-]{section.0.2}{Objetivos}{chapter*.6}% 5
+\BOOKMARK [0][-]{chapter.1}{Caracterizaci\363n y clasificaci\363n del comportamiento}{}% 6
+\BOOKMARK [1][-]{section.1.1}{Protocolo experimental}{chapter.1}% 7
+\BOOKMARK [1][-]{section.1.2}{An\341lisis de video}{chapter.1}% 8
+\BOOKMARK [1][-]{section.1.3}{Algoritmo t-SNE}{chapter.1}% 9
+\BOOKMARK [2][-]{subsection.1.3.1}{Introducci\363n y formalismo}{section.1.3}% 10
+\BOOKMARK [2][-]{subsection.1.3.2}{C\341lculo de similaridades}{section.1.3}% 11
+\BOOKMARK [2][-]{subsection.1.3.3}{Funci\363n de costo}{section.1.3}% 12
+\BOOKMARK [2][-]{subsection.1.3.4}{Obtenci\363n del mapa de comportamientos}{section.1.3}% 13
+\BOOKMARK [1][-]{section.1.4}{Transformaci\363n watershed}{chapter.1}% 14
+\BOOKMARK [0][-]{chapter.2}{An\341lisis e interpretaci\363n del mapa de comportamientos}{}% 15
+\BOOKMARK [1][-]{section.2.1}{Interpretaci\363n del mapa}{chapter.2}% 16
+\BOOKMARK [1][-]{section.2.2}{Representatividad de la clasificaci\363n}{chapter.2}% 17
+\BOOKMARK [1][-]{section.2.3}{Relaci\363n entre el comportamiento y la velocidad del rotarod}{chapter.2}% 18
+\BOOKMARK [1][-]{section.2.4}{Din\341mica temporal de transiciones entre poses}{chapter.2}% 19
+\BOOKMARK [0][-]{chapter.3}{Registros de actividad neuronal}{}% 20
+\BOOKMARK [1][-]{section.3.1}{Registro de actividad de neuronas individuales}{chapter.3}% 21
+\BOOKMARK [1][-]{section.3.2}{Actividad de neuronas individuales}{chapter.3}% 22
+\BOOKMARK [1][-]{section.3.3}{Patrones de actividad de grupos de neuronas}{chapter.3}% 23
+\BOOKMARK [0][-]{chapter*.27}{Conclusiones}{}% 24
+\BOOKMARK [0][-]{chapter*.28}{Bibliograf\355a}{}% 25
+\BOOKMARK [0][-]{appendix.Alph1}{Implementaci\363n y detalles t\351cnicos del algoritmo t-SNE}{}% 26
+\BOOKMARK [1][-]{section.Alph1.1}{M\351todos aproximados}{appendix.Alph1}% 27
+\BOOKMARK [1][-]{section.Alph1.2}{T\351cnicas de optimizaci\363n}{appendix.Alph1}% 28
+\BOOKMARK [1][-]{section.Alph1.3}{Par\341metros utilizados en el mapa de comportamientos}{appendix.Alph1}% 29
+\BOOKMARK [0][-]{appendix.Alph2}{Patrones de actividad de grupos de neuronas, continuaci\363n}{}% 30

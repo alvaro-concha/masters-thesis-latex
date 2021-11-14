@@ -1,0 +1,18 @@
+[0] Config.pm:304> INFO - This is Biber 2.14 (beta)
+[0] Config.pm:307> INFO - Logfile is 'z-main.blg'
+[120] biber:322> INFO - === Sun Nov 14, 2021, 12:22:27
+[139] Biber.pm:415> INFO - Reading 'z-main.bcf'
+[219] Biber.pm:943> INFO - Found 44 citekeys in bib section 0
+[235] Biber.pm:4256> INFO - Processing section 0
+[235] Utils.pm:75> INFO - Globbing data source 'referencias.bib'
+[236] Utils.pm:91> INFO - Globbed data source 'referencias.bib' to referencias.bib
+[248] Biber.pm:4455> INFO - Looking for bibtex format file 'referencias.bib' for section 0
+[252] bibtex.pm:1653> INFO - LaTeX decoding ...
+[328] bibtex.pm:1471> INFO - Found BibTeX data source 'referencias.bib'
+[606] Utils.pm:293> WARN - year field '2001--' in entry 'scipy' is not an integer - this will probably not sort properly.
+[696] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[696] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[696] Biber.pm:4084> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'es-ES'
+[726] bbl.pm:652> INFO - Writing 'z-main.bbl' with encoding 'UTF-8'
+[758] bbl.pm:755> INFO - Output to z-main.bbl
+[759] Biber.pm:128> INFO - WARNINGS: 1

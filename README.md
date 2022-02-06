@@ -13,7 +13,7 @@ Co-advisor: PhD Damián Hernández
 Animals exhibit complex behavioral repertoires that can be described, with varying degrees of detail, as combinations from a finite set of stereotyped movements or biophysical states.
 These biophysical responses are flexible, since different behavior sequences can be used to solve similar tasks, and are adaptable to changing environments through learning mechanisms.
 Given this flexibility and adaptability, translating complex animal behaviors into quantifiable features or well-defined behavior categories can be challenging.
-On the one hand, manual classification of behaviors can be time-consuming, require the definition of a __priori__ categories and may not bereproducible between assessments.
+On the one hand, manual classification of behaviors can be time-consuming, require the definition of _a priori_ categories and may not bereproducible between assessments.
 On the other hand, heuristically created categories (e.g., walking, running or jumping) tend to ignore inherent information regarding intra- and inter-animal variability, frequently found in unrestrained naturalistic settings.
 
 Therefore, in this work we analyze different approaches to quantify and evaluate mouse behavior during the execution of a motor skill learning task (accelerating rotarod). In particular, we apply unsupervised machine learning techniques to classify behaviors (UMAP embeddings with watershed segmentation).

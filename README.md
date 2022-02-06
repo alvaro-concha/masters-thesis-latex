@@ -3,6 +3,16 @@
     alt="Behavior embeddings"
     width="100%" />
 
+<img align="center" 
+    src="figuras/capitulo4/labels_umap_wav.png"
+    alt="Wavelet embedding"
+    width="100%" />
+    
+<img align="center" 
+    src="figuras/capitulo4/labels_umap_stp.png"
+    alt="Steps and poses embedding"
+    width="100%" />
+
 # Representations of animal behavior in a motor skill learning task
 
 MSc dissertation project, written using LaTeX.
@@ -12,11 +22,6 @@ Author: Alvaro Concha
 Advisor: PhD Soledad Espósito
 
 Co-advisor: PhD Damián Hernández
-
-<img align="center" 
-    src="figuras/introduccion/flujo_de_trabajo.pdf"
-    alt="Workflow"
-    width="100%" />
 
 ## Abstract
 

@@ -8,7 +8,7 @@
 \RequirePackage[english, spanish]{babel}
 \decimalpoint
 \RequirePackage[a4paper, inner=4cm, outer=3cm, top=3.5cm, bottom=4cm]{geometry}
-\RequirePackage[labelfont={bf}]{caption}
+\RequirePackage[labelfont={bf}, font={sf}, labelsep=period]{caption}
 \RequirePackage{subcaption}
 \RequirePackage{hyperref}
 \RequirePackage{color}
@@ -30,6 +30,10 @@
 \RequirePackage{pgffor}
 \RequirePackage{pdflscape}
 \RequirePackage{rotating}
+\RequirePackage{epigraph}
+\RequirePackage{contour}
+\RequirePackage{eso-pic}
+\RequirePackage{tikz}
 %------------------Formato-------------------------------------%
 \DeclareRobustCommand\es@scroman{\@firstofone}
 \def\cleardoublepage{
@@ -51,25 +55,27 @@
 \def\director#1{\gdef\@director{#1}}
 \def\codirector#1{\gdef\@codirector{#1}}
 \def\cotutor#1{\gdef\@cotutor{#1}}
-\def\jurado#1{\gdef\@jurado{#1}}
+\def\juradoa#1{\gdef\@juradoa{#1}}
+\def\juradob#1{\gdef\@juradob{#1}}
+\def\juradoc#1{\gdef\@juradoc{#1}}
+\def\institucion#1{\gdef\@institucion{#1}}
 \def\laboratorio#1{\gdef\@laboratorio{#1}}
 \def\palabrasclave#1{\gdef\@palabrasclave{#1}}
 \def\keywords#1{\gdef\@keywords{#1}}
-\def\lugaryfecha#1{\gdef\@lugaryfecha{#1}}
+\def\fecha#1{\gdef\@fecha{#1}}
 %------------------\maketitle----------------------------------%
 \renewcommand\maketitle{
     \begin{titlepage}
         \large
         \begin{center}
             {\Large \@trabajo\\}
-            {\Large \@carrera\\}
-            \vskip 5em
-            {\Large \textbf{ \@titulo\\}}
             \vskip 1em
             \@orientacion
-            \vskip 1em
+            \vskip 4em
+            {\Large \textbf{\@titulo\\}}
+            \vskip 2em
             {\Large \@autor\\}
-            \vskip 5em
+            \vskip 4em
             {
                 \begin{tabular}[t]{c}
                     \@director\\ \directorname                    
@@ -95,11 +101,18 @@
                 \\
             }
             \vskip 4em
-            {\@autor\\ \@grado\\}
-            \vskip 5em \vfill
+            {
+                \@juradoa\\
+                \@juradob\\
+                \@juradoc\\  
+                \juradoname\\
+            }
+            \vskip 4em \vfill
             \@laboratorio
             \vskip 1em
-            \@lugaryfecha\\
+            \@institucion
+            \vskip 1em
+            \@fecha
         \end{center}
     \end{titlepage}
     \global\let\maketitle\relax
@@ -138,8 +151,8 @@
 	\selectlanguage{english}
 	\chapter{\abstractname}
 	\noindent
-    {\bfseries\large\@title}
-    \par\vspace{1em}
+    {\centering\bfseries\large\@title\par}
+    \vspace{1em}
 }
 {	
 	\vfill
@@ -166,12 +179,11 @@
 
 \addto\captionsspanish
 {
-	\def\contentsname{Índice de contenidos}
+	\def\contentsname{Contenidos}
 	\def\listfigurename{Índice de figuras}
 	\def\listtablename{Índice de tablas}
 	\def\figurename{Figura}
 	\def\tablename{Tabla}
-	\def\bibname{Bibliografía}
 	\def\listsymbolname{Glosario de símbolos}
 	\def\listacronymname{Índice de abreviaturas}
 }

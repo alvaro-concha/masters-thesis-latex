@@ -1,36 +1,39 @@
 \boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
 \babel@toc {spanish}{}
-\contentsline {chapter}{Resumen}{\es@scroman {xi}}{chapter*.4}%
+\contentsline {chapter}{Resumen}{\es@scroman {iv}}{chapter*.2}%
 \babel@toc {english}{}
-\contentsline {chapter}{Abstract}{\es@scroman {xiii}}{chapter*.5}%
+\contentsline {chapter}{Abstract}{\es@scroman {v}}{chapter*.3}%
 \babel@toc {spanish}{}
 \babel@toc {english}{}
 \babel@toc {spanish}{}
-\contentsline {chapter}{Introducción}{1}{chapter*.6}%
-\contentsline {section}{\numberline {0.1}Motivación}{1}{section.0.1}%
-\contentsline {section}{\numberline {0.2}Objetivos}{1}{section.0.2}%
-\contentsline {chapter}{\numberline {1}Caracterización y clasificación del comportamiento}{5}{chapter.1}%
-\contentsline {section}{\numberline {1.1}Protocolo experimental}{5}{section.1.1}%
-\contentsline {section}{\numberline {1.2}Análisis de video}{6}{section.1.2}%
-\contentsline {section}{\numberline {1.3}Algoritmo t-SNE}{8}{section.1.3}%
-\contentsline {subsection}{\numberline {1.3.1}Introducción y formalismo}{8}{subsection.1.3.1}%
-\contentsline {subsection}{\numberline {1.3.2}Cálculo de similaridades}{9}{subsection.1.3.2}%
-\contentsline {subsection}{\numberline {1.3.3}Función de costo}{11}{subsection.1.3.3}%
-\contentsline {subsection}{\numberline {1.3.4}Obtención del mapa de comportamientos}{13}{subsection.1.3.4}%
-\contentsline {section}{\numberline {1.4}Transformación \textit {watershed}}{14}{section.1.4}%
-\contentsline {chapter}{\numberline {2}Análisis e interpretación del mapa de comportamientos}{17}{chapter.2}%
-\contentsline {section}{\numberline {2.1}Interpretación del mapa}{17}{section.2.1}%
-\contentsline {section}{\numberline {2.2}Representatividad de la clasificación}{19}{section.2.2}%
-\contentsline {section}{\numberline {2.3}Relación entre el comportamiento y la velocidad del \textit {rotarod}}{21}{section.2.3}%
-\contentsline {section}{\numberline {2.4}Dinámica temporal de transiciones entre poses}{23}{section.2.4}%
-\contentsline {chapter}{\numberline {3}Registros de actividad neuronal}{27}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Registro de actividad de neuronas individuales}{27}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Actividad de neuronas individuales}{28}{section.3.2}%
-\contentsline {section}{\numberline {3.3}Patrones de actividad de grupos de neuronas}{30}{section.3.3}%
-\contentsline {chapter}{Conclusiones}{37}{chapter*.27}%
-\contentsline {chapter}{Bibliografía}{41}{chapter*.28}%
-\contentsline {chapter}{\numberline {A}Implementación y detalles técnicos del algoritmo t-SNE}{43}{appendix.Alph1}%
-\contentsline {section}{\numberline {A.1}Métodos aproximados}{43}{section.Alph1.1}%
-\contentsline {section}{\numberline {A.2}Técnicas de optimización}{44}{section.Alph1.2}%
-\contentsline {section}{\numberline {A.3}Parámetros utilizados en el mapa de comportamientos}{45}{section.Alph1.3}%
-\contentsline {chapter}{\numberline {B}Patrones de actividad de grupos de neuronas, continuación}{47}{appendix.Alph2}%
+\contentsline {chapter}{Introducción}{1}{chapter*.4}%
+\contentsline {chapter}{\numberline {1}Método experimental}{6}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Protocolo rotarod con aceleración}{8}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Registros en video}{9}{section.1.2}%
+\contentsline {chapter}{\numberline {2}Extracción de características}{10}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Captura de movimiento}{11}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Ángulos entre partes del cuerpo}{13}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Espectros \textit {wavelet} de los ángulos}{13}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Características de pasos}{14}{section.2.4}%
+\contentsline {chapter}{\numberline {3}Representaciones del comportamiento}{16}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Niveles de descripción del comportamiento}{17}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Variación en las métricas por rendimiento y entrenamiento}{20}{section.3.2}%
+\contentsline {chapter}{\numberline {4}Mapas de comportamiento}{24}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Estructura espacial y temporal de los mapas}{27}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Cambios en las secuencias de comportamiento}{33}{section.4.2}%
+\contentsline {chapter}{Conclusiones}{37}{chapter*.26}%
+\contentsline {chapter}{Referencias}{41}{section*.27}%
+\contentsline {chapter}{\numberline {A}Análisis de características}{44}{appendix.Alph1}%
+\contentsline {section}{\numberline {A.1}Captura de movimiento}{44}{section.Alph1.1}%
+\contentsline {section}{\numberline {A.2}Ángulos entre partes del cuerpo}{45}{section.Alph1.2}%
+\contentsline {section}{\numberline {A.3}Espectros \textit {wavelet} y PCA}{46}{section.Alph1.3}%
+\contentsline {section}{\numberline {A.4}Características de pasos y poses}{50}{section.Alph1.4}%
+\contentsline {chapter}{\numberline {B}Métricas de comportamiento}{54}{appendix.Alph2}%
+\contentsline {section}{\numberline {B.1}Promedio}{55}{section.Alph2.1}%
+\contentsline {section}{\numberline {B.2}Pendiente}{56}{section.Alph2.2}%
+\contentsline {section}{\numberline {B.3}RMSE}{57}{section.Alph2.3}%
+\contentsline {chapter}{\numberline {C}Análisis de mapas de comportamiento}{58}{appendix.Alph3}%
+\contentsline {section}{\numberline {C.1}Caracterización de los mapas UMAP}{58}{section.Alph3.1}%
+\contentsline {section}{\numberline {C.2}\textit {Labels} de comportamiento}{61}{section.Alph3.2}%
+\contentsline {chapter}{Índice de figuras}{70}{appendix*.56}%
+\contentsline {chapter}{Índice de tablas}{71}{appendix*.57}%

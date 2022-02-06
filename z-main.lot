@@ -7,10 +7,12 @@
 \babel@toc {english}{}
 \babel@toc {spanish}{}
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {1.1}{\ignorespaces Elementos básicos de la transformada t-SNE y notación utilizada. Comparación entre los espacios de entrada y de salida.\relax }}{9}{table.caption.10}%
-\addvspace {10\p@ }
-\contentsline {table}{\numberline {2.1}{\ignorespaces Frecuencia condicional $p_{l|r}$ de observar el \textit {label} $l$ del etograma de la Fig. \ref {fig:tsne_labels} con el $r$-ésimo ratón. Valores de diversidad ${}^{2}D_l$ calculados para cada \textit {label} $l$. Se resaltan en negrita aquellos valores de diversidad mayores a ${}^{2}D_l = 2.5$.\relax }}{21}{table.caption.17}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {A.1}{\ignorespaces Parámetros utilizados durante la ejecución del algoritmo t-SNE mediante el cual se obtuvo el etograma de la Figura \ref {fig:tsne_black}.\relax }}{46}{table.caption.31}%
+\contentsline {table}{\numberline {3.1}{\ignorespaces \textbf {Cambios más significativos en el grupo de bajo rendimiento.} p-valores \textit {one-way} ANOVA para medir cambios a lo largo de los días de entrenamiento, para cada grupo de rendimiento. Los p-valores estadísticamente significativos se indican en negrita.\relax }}{22}{table.caption.16}%
+\contentsline {table}{\numberline {3.2}{\ignorespaces \textbf {Mayoría de cambios ocurren en la prueba D1T2.} Pruebas en las que se observó la mayor variación en el Z-score de las métricas, respecto de la prueba inmediatamente anterior. Se muestran los resultados del grupo de ratones de bajo rendimiento. Las pruebas con Z-scores mayores a 1 se indican en negrita. El símbolo D$i$T$j$ denota la prueba $j$ del día $i$.\relax }}{23}{table.caption.17}%
+\contentsline {table}{\numberline {3.3}{\ignorespaces \textbf {Mayoría de métricas separan los grupos de rendimiento.} p-valores T-test entre grupos de rendimiento. Los p-valores estadísticamente significativos se indican en negrita. El símbolo D$i$ denota el día $i$.\relax }}{23}{table.caption.18}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
 \addvspace {10\p@ }

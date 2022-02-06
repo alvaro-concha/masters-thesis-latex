@@ -1,37 +1,49 @@
-%\documentclass[draft]{ib-tesis}
-%\documentclass[showframe]{ib-tesis}
-\documentclass{ib-tesis}
+\documentclass[openany]{ib-tesis}
 
 \input{preambulo/portada}
 \input{preambulo/paquetes}
 \addbibresource{referencias.bib}
 
+\def\sqrtexplained#1{%
+  \begingroup
+    \sbox0{$#1$}
+    \def\underbrace##1_##2{##1}
+    \sbox2{$#1$}
+    \dimen0=\wd0 \advance\dimen0-\wd2
+    \mathrlap{\sqrt{\phantom{\displaystyle#1}\kern\dimen0 }}
+    \hphantom{\sqrt{\vphantom{\displaystyle#1}}}
+  \endgroup
+  #1}
+
 \begin{document}
 
 \frontmatter
 \maketitle
-%\input{frontmatter/dedicatoria}
-%\input{frontmatter/fe-de-erratas}
-\tableofcontents                
-\listoffigures                  
-\listoftables                   
+\tableofcontents
 \input{frontmatter/resumen}
 \input{frontmatter/abstract}
 
 \mainmatter
 \include{introduccion}
-\include{expertos_mapa}
-\include{expertos_analisis}
-\include{expertos_neuro}
+\include{capitulo1}
+\include{capitulo2}
+\include{capitulo3}
+\include{capitulo4}
 \include{conclusiones}
 
-%\selectlanguage{english}
-\printbibliography
-\addcontentsline{toc}{chapter}{Bibliografía}
-\include{apendice}
+\cleardoublepage
+\phantomsection
+\addcontentsline{toc}{chapter}{Referencias}
+\printbibliography[title=Referencias]
+{
+  \vspace*{\fill}
+  Las carátulas de este trabajo fueron generadas artificialmente usando \href{https://www.wombo.art/}{WOMBO Dream}.
+}
 
-\backmatter
-%\input{backmatter/publicaciones}
-%\input{backmatter/agradecimientos}
+\include{apendice}
+\listoffigures
+\addcontentsline{toc}{chapter}{\listfigurename}
+\listoftables
+\addcontentsline{toc}{chapter}{\listtablename}
 
 \end{document}

@@ -217,6 +217,75 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/rotating.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/rotating.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/epigraph/epigraph.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/epigraph/epigraph.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/nextpage/nextpage.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/nextpage/nextpage.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/contour/contour.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/contour/contour.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/contour/contour.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/latex/contour/contour.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/latex/contour/pdftex.cnt
+INPUT /usr/share/texlive/texmf-dist/tex/latex/contour/pdftex.cnt
+INPUT /usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfint.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
 INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/preambulo/portada.tex
 INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/preambulo/portada.tex
 INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/preambulo/paquetes.tex
@@ -229,12 +298,14 @@ INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/z-main
 INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/z-main.aux
 INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/introduccion.aux
 INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/introduccion.aux
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/expertos_mapa.aux
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/expertos_mapa.aux
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/expertos_analisis.aux
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/expertos_analisis.aux
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/expertos_neuro.aux
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/expertos_neuro.aux
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/capitulo1.aux
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/capitulo1.aux
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/capitulo2.aux
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/capitulo2.aux
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/capitulo3.aux
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/capitulo3.aux
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/capitulo4.aux
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/capitulo4.aux
 INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/conclusiones.aux
 INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/conclusiones.aux
 INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/apendice.aux
@@ -326,15 +397,6 @@ INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/z-main
 INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/z-main.toc
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecti1000.tfm
 OUTPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/z-main.toc
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/z-main.lof
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/z-main.lof
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx7.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx5.tfm
-OUTPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/z-main.lof
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/z-main.lot
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/z-main.lot
-OUTPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/z-main.lot
 INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/frontmatter/resumen.tex
 INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/frontmatter/resumen.tex
 INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/frontmatter/abstract.tex
@@ -342,318 +404,211 @@ INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/frontm
 OUTPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/introduccion.aux
 INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/introduccion.tex
 INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/introduccion.tex
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecrm0500.tfm
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/introduccion/actividad_comportamiento.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/introduccion/actividad_comportamiento.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/introduccion/actividad_comportamiento.pdf
-OUTPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/expertos_mapa.aux
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/expertos_mapa.tex
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/expertos_mapa.tex
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/experimento/rotarod.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/experimento/rotarod.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/experimento/rotarod.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/videos/frame.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/videos/frame.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/videos/frame.pdf
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecrm0900.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecbx0900.tfm
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/videos/positions.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/videos/positions.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/videos/positions.pdf
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/caratulas/analisis_no_supervisado_del_comportamiento_animal.jpg
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/caratulas/analisis_no_supervisado_del_comportamiento_animal.jpg
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/caratulas/analisis_no_supervisado_del_comportamiento_animal.jpg
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/introduccion/registros_neuronas.pdf
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/introduccion/registros_neuronas.pdf
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/introduccion/registros_neuronas.pdf
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/t1cmss.fd
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/t1cmss.fd
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecss1000.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecsx1000.tfm
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/introduccion/flujo_de_trabajo.pdf
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/introduccion/flujo_de_trabajo.pdf
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/introduccion/flujo_de_trabajo.pdf
+OUTPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/capitulo1.aux
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/capitulo1.tex
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/capitulo1.tex
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/caratulas/metodo_experimental.jpg
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/caratulas/metodo_experimental.jpg
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/caratulas/metodo_experimental.jpg
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo1/rotarod.pdf
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo1/rotarod.pdf
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo1/rotarod.pdf
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo1/camaras.pdf
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo1/camaras.pdf
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo1/camaras.pdf
+OUTPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/capitulo2.aux
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/capitulo2.tex
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/capitulo2.tex
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/caratulas/extraccion_de_caracteristicas.jpg
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/caratulas/extraccion_de_caracteristicas.jpg
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/caratulas/extraccion_de_caracteristicas.jpg
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo2/captura_movimiento.pdf
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo2/captura_movimiento.pdf
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo2/captura_movimiento.pdf
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ectt1000.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecrm0700.tfm
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/tsne/tsne_black.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/tsne/tsne_black.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/tsne/tsne_black.pdf
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo2/angulos_esqueleto.pdf
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo2/angulos_esqueleto.pdf
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo2/angulos_esqueleto.pdf
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecbi1440.tfm
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/watershed/relief_sig_tsne1.0_foot30_cut20.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/watershed/relief_sig_tsne1.0_foot30_cut20.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/watershed/relief_sig_tsne1.0_foot30_cut20.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/watershed/gradient_sig_tsne1.0_foot30_cut20.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/watershed/gradient_sig_tsne1.0_foot30_cut20.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/watershed/gradient_sig_tsne1.0_foot30_cut20.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/labels/segmentation.png
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/labels/segmentation.png
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/labels/segmentation.png
-OUTPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/expertos_analisis.aux
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/expertos_analisis.tex
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/expertos_analisis.tex
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecbi1000.tfm
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/videos/1.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/videos/1.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/videos/1.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/videos/2.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/videos/2.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/videos/2.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/videos/3.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/videos/3.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/videos/3.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/videos/4.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/videos/4.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/videos/4.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/videos/5.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/videos/5.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/videos/5.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/videos/6.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/videos/6.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/videos/6.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/videos/7.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/videos/7.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/videos/7.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/videos/8.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/videos/8.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/videos/8.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/videos/9.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/videos/9.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/videos/9.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/labels/event_blocks_positions.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/labels/event_blocks_positions.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/labels/event_blocks_positions.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/labels/mouse_compare_tsne.png
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/labels/mouse_compare_tsne.png
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/labels/mouse_compare_tsne.png
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecti0700.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecti0500.tfm
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/labels/line_duration_speed.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/labels/line_duration_speed.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/labels/line_duration_speed.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/labels/speed_hist_prob_label.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/labels/speed_hist_prob_label.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/labels/speed_hist_prob_label.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/labels/transition_graph.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/labels/transition_graph.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/labels/transition_graph.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/labels/trans_prob_change.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/labels/trans_prob_change.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/labels/trans_prob_change.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/logos/conditional_logos_odd.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/logos/conditional_logos_odd.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/logos/conditional_logos_odd.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/logos/conditional_logos_even.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/logos/conditional_logos_even.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/logos/conditional_logos_even.pdf
-OUTPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/expertos_neuro.aux
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/expertos_neuro.tex
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/expertos_neuro.tex
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/cerebro/mlr.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/cerebro/mlr.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/cerebro/mlr.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/disparo/raster_mouse3_day10_trial08_label2_neuronSPKC11a.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/disparo/raster_mouse3_day10_trial08_label2_neuronSPKC11a.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/disparo/raster_mouse3_day10_trial08_label2_neuronSPKC11a.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/disparo/raster_mouse3_day04_trial08_label2_neuronSPKC11a.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/disparo/raster_mouse3_day04_trial08_label2_neuronSPKC11a.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/disparo/raster_mouse3_day04_trial08_label2_neuronSPKC11a.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/disparo/raster_mouse3_day05_trial10_label2_neuronSPKC09a.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/disparo/raster_mouse3_day05_trial10_label2_neuronSPKC09a.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/disparo/raster_mouse3_day05_trial10_label2_neuronSPKC09a.pdf
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/tcrm0700.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/tcrm0500.tfm
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_max_onset_label2.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_max_onset_label2.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_max_onset_label2.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_max_offset_label2.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_max_offset_label2.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_max_offset_label2.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_min_onset_label2.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_min_onset_label2.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_min_onset_label2.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_min_offset_label2.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_min_offset_label2.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_min_offset_label2.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_deafult_onset_label2.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_deafult_onset_label2.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_deafult_onset_label2.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_deafult_offset_label2.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_deafult_offset_label2.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_deafult_offset_label2.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_max_onset_label5.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_max_onset_label5.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_max_onset_label5.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_max_offset_label5.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_max_offset_label5.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_max_offset_label5.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_min_onset_label5.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_min_onset_label5.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_min_onset_label5.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_min_offset_label5.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_min_offset_label5.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_min_offset_label5.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_deafult_onset_label5.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_deafult_onset_label5.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_deafult_onset_label5.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_deafult_offset_label5.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_deafult_offset_label5.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_deafult_offset_label5.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_max_onset_label6.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_max_onset_label6.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_max_onset_label6.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_max_offset_label6.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_max_offset_label6.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_max_offset_label6.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_min_onset_label6.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_min_onset_label6.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_min_onset_label6.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_min_offset_label6.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_min_offset_label6.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_min_offset_label6.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_deafult_onset_label6.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_deafult_onset_label6.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_deafult_onset_label6.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_deafult_offset_label6.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_deafult_offset_label6.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_deafult_offset_label6.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_max_onset_label7.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_max_onset_label7.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_max_onset_label7.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_max_offset_label7.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_max_offset_label7.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_max_offset_label7.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_min_onset_label7.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_min_onset_label7.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_min_onset_label7.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_min_offset_label7.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_min_offset_label7.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_min_offset_label7.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_deafult_onset_label7.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_deafult_onset_label7.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_deafult_onset_label7.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_deafult_offset_label7.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_deafult_offset_label7.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_deafult_offset_label7.pdf
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo2/caracteristicas_de_pasos.pdf
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo2/caracteristicas_de_pasos.pdf
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo2/caracteristicas_de_pasos.pdf
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo2/estadistica_de_pasos.pdf
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo2/estadistica_de_pasos.pdf
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo2/estadistica_de_pasos.pdf
+OUTPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/capitulo3.aux
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/capitulo3.tex
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/capitulo3.tex
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/caratulas/representacion_del_comportamiento.jpg
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/caratulas/representacion_del_comportamiento.jpg
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/caratulas/representacion_del_comportamiento.jpg
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo3/representacion_comportamiento.pdf
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo3/representacion_comportamiento.pdf
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo3/representacion_comportamiento.pdf
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecrm0700.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecrm0500.tfm
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo3/probabilidad_caer_por_rendimiento.png
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo3/probabilidad_caer_por_rendimiento.png
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo3/probabilidad_caer_por_rendimiento.png
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo3/latencia_por_prueba_por_rendimiento.pdf
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo3/latencia_por_prueba_por_rendimiento.pdf
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo3/latencia_por_prueba_por_rendimiento.pdf
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecsi1000.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx7.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx5.tfm
+OUTPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/capitulo4.aux
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/capitulo4.tex
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/capitulo4.tex
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/caratulas/mapa_de_comportamientos.jpg
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/caratulas/mapa_de_comportamientos.jpg
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/caratulas/mapa_de_comportamientos.jpg
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo4/partes_del_cuerpo_pca.pdf
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo4/partes_del_cuerpo_pca.pdf
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo4/partes_del_cuerpo_pca.pdf
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo4/comentario_label_umap.png
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo4/comentario_label_umap.png
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo4/comentario_label_umap.png
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo4/labels_umap_wav.png
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo4/labels_umap_wav.png
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo4/labels_umap_wav.png
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecso1000.tfm
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo4/labels_umap_stp.png
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo4/labels_umap_stp.png
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo4/labels_umap_stp.png
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo4/entropia.pdf
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo4/entropia.pdf
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo4/entropia.pdf
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo4/probabilidades_labels_wav.pdf
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo4/probabilidades_labels_wav.pdf
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo4/probabilidades_labels_wav.pdf
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo4/probabilidades_labels_stp.pdf
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo4/probabilidades_labels_stp.pdf
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo4/probabilidades_labels_stp.pdf
 OUTPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/conclusiones.aux
 INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/conclusiones.tex
 INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/conclusiones.tex
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/caratulas/conclusiones.jpg
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/caratulas/conclusiones.jpg
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/caratulas/conclusiones.jpg
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/eccc1000.tfm
 OUTPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/apendice.aux
 INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/apendice.tex
 INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/apendice.tex
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/tsne/quadtree.png
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/tsne/quadtree.png
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/tsne/quadtree.png
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/tsne/interpolation_grid.png
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/tsne/interpolation_grid.png
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/tsne/interpolation_grid.png
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/tsne/tsne_alpha100_exaggs(12, 1, 1).pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/tsne/tsne_alpha100_exaggs(12, 1, 1).pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/tsne/tsne_alpha100_exaggs(12, 1, 1).pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/tsne/tsne_alpha1_exaggs(12, 1, 1).pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/tsne/tsne_alpha1_exaggs(12, 1, 1).pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/tsne/tsne_alpha1_exaggs(12, 1, 1).pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/tsne/tsne_alpha0.5_exaggs(12, 1, 1).pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/tsne/tsne_alpha0.5_exaggs(12, 1, 1).pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/tsne/tsne_alpha0.5_exaggs(12, 1, 1).pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/tsne/tsne_alpha100_exaggs(12, 1, 2).pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/tsne/tsne_alpha100_exaggs(12, 1, 2).pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/tsne/tsne_alpha100_exaggs(12, 1, 2).pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/tsne/tsne_alpha1_exaggs(12, 1, 2).pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/tsne/tsne_alpha1_exaggs(12, 1, 2).pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/tsne/tsne_alpha1_exaggs(12, 1, 2).pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/tsne/tsne_alpha0.5_exaggs(12, 1, 2).pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/tsne/tsne_alpha0.5_exaggs(12, 1, 2).pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/tsne/tsne_alpha0.5_exaggs(12, 1, 2).pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_max_onset_label1.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_max_onset_label1.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_max_onset_label1.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_max_offset_label1.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_max_offset_label1.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_max_offset_label1.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_min_onset_label1.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_min_onset_label1.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_min_onset_label1.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_min_offset_label1.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_min_offset_label1.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_min_offset_label1.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_deafult_onset_label1.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_deafult_onset_label1.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_deafult_onset_label1.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_deafult_offset_label1.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_deafult_offset_label1.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_deafult_offset_label1.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_max_onset_label3.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_max_onset_label3.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_max_onset_label3.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_max_offset_label3.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_max_offset_label3.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_max_offset_label3.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_min_onset_label3.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_min_onset_label3.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_min_onset_label3.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_min_offset_label3.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_min_offset_label3.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_min_offset_label3.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_deafult_onset_label3.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_deafult_onset_label3.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_deafult_onset_label3.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_deafult_offset_label3.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_deafult_offset_label3.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_deafult_offset_label3.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_max_onset_label4.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_max_onset_label4.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_max_onset_label4.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_max_offset_label4.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_max_offset_label4.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_max_offset_label4.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_min_onset_label4.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_min_onset_label4.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_min_onset_label4.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_min_offset_label4.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_min_offset_label4.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_min_offset_label4.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_deafult_onset_label4.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_deafult_onset_label4.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_deafult_onset_label4.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_deafult_offset_label4.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_deafult_offset_label4.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_deafult_offset_label4.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_max_onset_label8.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_max_onset_label8.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_max_onset_label8.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_max_offset_label8.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_max_offset_label8.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_max_offset_label8.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_min_onset_label8.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_min_onset_label8.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_min_onset_label8.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_min_offset_label8.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_min_offset_label8.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_min_offset_label8.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_deafult_onset_label8.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_deafult_onset_label8.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_deafult_onset_label8.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_deafult_offset_label8.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_deafult_offset_label8.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_deafult_offset_label8.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_max_onset_label9.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_max_onset_label9.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_max_onset_label9.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_max_offset_label9.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_max_offset_label9.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_max_offset_label9.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_min_onset_label9.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_min_onset_label9.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_min_onset_label9.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_min_offset_label9.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_min_offset_label9.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_min_offset_label9.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_deafult_onset_label9.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_deafult_onset_label9.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_deafult_onset_label9.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_deafult_offset_label9.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_deafult_offset_label9.pdf
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/expertos/zscore/rasters_separate_days_zscore_deafult_offset_label9.pdf
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo2/posiciones.pdf
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo2/posiciones.pdf
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo2/posiciones.pdf
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo2/angulos.pdf
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo2/angulos.pdf
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo2/angulos.pdf
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo2/espectros_wavelet.pdf
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo2/espectros_wavelet.pdf
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo2/espectros_wavelet.pdf
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo4/mi_mean_wav.pdf
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo4/mi_mean_wav.pdf
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo4/mi_mean_wav.pdf
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo4/varianza_pca.pdf
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo4/varianza_pca.pdf
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo4/varianza_pca.pdf
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo4/pesos_pca.png
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo4/pesos_pca.png
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo4/pesos_pca.png
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo4/mi_pca_wav.pdf
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo4/mi_pca_wav.pdf
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo4/mi_pca_wav.pdf
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo4/componentes_pca.pdf
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo4/componentes_pca.pdf
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo4/componentes_pca.pdf
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo4/caracteristicas_pasos_poses.pdf
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo4/caracteristicas_pasos_poses.pdf
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo4/caracteristicas_pasos_poses.pdf
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo4/mi_scaler_stp.pdf
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo4/mi_scaler_stp.pdf
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo4/mi_scaler_stp.pdf
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo4/mi_mean_wav_scaler_stp.pdf
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo4/mi_mean_wav_scaler_stp.pdf
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo4/mi_mean_wav_scaler_stp.pdf
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo4/mi_pca_wav_scaler_stp.pdf
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo4/mi_pca_wav_scaler_stp.pdf
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo4/mi_pca_wav_scaler_stp.pdf
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo3/metricas_promedio.pdf
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo3/metricas_promedio.pdf
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo3/metricas_promedio.pdf
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo3/metricas_pendiente.pdf
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo3/metricas_pendiente.pdf
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo3/metricas_pendiente.pdf
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo3/metricas_rmse.pdf
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo3/metricas_rmse.pdf
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo3/metricas_rmse.pdf
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo4/umap_wav.png
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo4/umap_wav.png
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo4/umap_wav.png
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo4/umap_stp.png
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo4/umap_stp.png
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo4/umap_stp.png
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo4/label_serie_mapa_wav.png
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo4/label_serie_mapa_wav.png
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo4/label_serie_mapa_wav.png
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo4/label_secuencia_wav.png
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo4/label_secuencia_wav.png
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo4/label_secuencia_wav.png
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo4/mi_labels_wav.pdf
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo4/mi_labels_wav.pdf
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo4/mi_labels_wav.pdf
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo4/mi_labels_pca.pdf
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo4/mi_labels_pca.pdf
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo4/mi_labels_pca.pdf
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo4/mi_contra_labels_scaler_stp.pdf
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo4/mi_contra_labels_scaler_stp.pdf
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo4/mi_contra_labels_scaler_stp.pdf
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo4/label_serie_mapa_stp.png
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo4/label_serie_mapa_stp.png
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo4/label_serie_mapa_stp.png
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo4/label_secuencia_stp.png
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo4/label_secuencia_stp.png
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo4/label_secuencia_stp.png
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo4/mi_labels_scaler_stp.pdf
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo4/mi_labels_scaler_stp.pdf
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo4/mi_labels_scaler_stp.pdf
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo4/mi_contra_labels_wav.pdf
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo4/mi_contra_labels_wav.pdf
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo4/mi_contra_labels_wav.pdf
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo4/mi_contra_labels_pca.pdf
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo4/mi_contra_labels_pca.pdf
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/figuras/capitulo4/mi_contra_labels_pca.pdf
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/z-main.lof
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/z-main.lof
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecbi1000.tfm
+OUTPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/z-main.lof
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/z-main.lot
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/z-main.lot
+OUTPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/z-main.lot
 INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/z-main.aux
 INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/introduccion.aux
 INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/introduccion.aux
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/expertos_mapa.aux
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/expertos_mapa.aux
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/expertos_analisis.aux
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/expertos_analisis.aux
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/expertos_neuro.aux
-INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/expertos_neuro.aux
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/capitulo1.aux
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/capitulo1.aux
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/capitulo2.aux
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/capitulo2.aux
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/capitulo3.aux
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/capitulo3.aux
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/capitulo4.aux
+INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/capitulo4.aux
 INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/conclusiones.aux
 INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/conclusiones.aux
 INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/apendice.aux
@@ -663,33 +618,31 @@ INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/z-main
 INPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/z-main.run.xml
 OUTPUT /home/alvaro/Documents/IB/Semestre 7/TM/GitHub/masters-thesis-latex/z-main.run.xml
 INPUT /usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc
-INPUT /usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
-INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
-INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
-INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb
-INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb
 INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfbi1000.pfb
 INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfbi1440.pfb
-INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfbx0900.pfb
 INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfbx1000.pfb
 INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfbx1200.pfb
 INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfbx1440.pfb
 INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfbx2074.pfb
 INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfbx2488.pfb
 INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfcc1000.pfb
-INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfrm0500.pfb
 INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfrm0700.pfb
 INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb
 INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb
 INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfrm1440.pfb
+INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfsi1000.pfb
+INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfso1000.pfb
+INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfss1000.pfb
+INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfsx1000.pfb
 INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfti1000.pfb
 INPUT /usr/share/texmf/fonts/type1/public/cm-super/sftt1000.pfb

@@ -1,12 +1,22 @@
+<img align="center" 
+    src="figuras/capitulo4/comentario_label_umap.png"
+    alt="Behavior embeddings"
+    width="100%" />
+
 # Representations of animal behavior in a motor skill learning task
 
-MSc dissertation project, written in using LaTeX.
+MSc dissertation project, written using LaTeX.
 
 Author: Alvaro Concha
 
 Advisor: PhD Soledad Espósito
 
 Co-advisor: PhD Damián Hernández
+
+<img align="center" 
+    src="figuras/introduccion/flujo_de_trabajo.pdf"
+    alt="Workflow"
+    width="100%" />
 
 ## Abstract
 
